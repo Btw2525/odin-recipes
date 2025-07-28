@@ -10,15 +10,17 @@ html {
     margin: 0;
 }
 
-* {
-    background-color: #222831;
+body {
+    font-family: Didot, "Didot LT STD", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #DFD0B8;
 }
 
-.text-color,
-h1,
-li,
 a {
     color: #DFD0B8;
+}
+
+* {
+    background-color: #222831;
 }
 
 .heading-div {
@@ -32,4 +34,3 @@ a {
 h1 {
     background-color: #393E46;
 }
-
